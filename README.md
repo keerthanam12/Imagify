@@ -3,7 +3,7 @@ Imagify - Text to Image Generator AI SaaS Application
 
 
 # 🔗 Project Description
-
+Imagify is an AI-powered Text to Image Generator AI SaaS Application that allows users to create stunning images simply by entering a text prompt. Whether you're an artist, designer, or just someone looking for creative visuals, Imagify makes it easy and seamless to generate high-quality images in seconds. With a beautifully designed and intuitive user interface, the platform ensures a smooth and enjoyable experience. Users can explore their creativity without limitations, starting with free credits and easily purchasing more when needed. The secure user authentication system allows seamless account creation and login, ensuring personalized access. Powered by advanced AI technology, Imagify transforms simple text into breathtaking visuals with incredible accuracy and detail. Whether you need artwork, concept designs, or just a bit of inspiration, this platform delivers instant, high-quality results. With fast processing, an effortless workflow, and a credit-based model, Imagify provides a perfect balance of accessibility and premium features, making it the ultimate tool for anyone looking to generate stunning AI-powered images.
 
 
 ## 🖥️ Tech Stack
@@ -176,7 +176,7 @@ Imagify - Text to Image Generator AI SaaS Application
 
 **3.** Then go to VSCode and open folder and open this file.
 
-**4.** Then click New Terminal and type [cd Edemy] and click enter. 
+**4.** Then click New Terminal and type [cd Imagify] and click enter. 
 
 **5.** Run the following commands:
 
